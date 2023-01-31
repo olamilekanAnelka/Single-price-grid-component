@@ -1,0 +1,109 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+   
+}
+.biggest{
+    width: 78vw;
+    height: 74vh;
+    background-color: #F0F0F0;
+    margin:8rem 14rem;
+
+}
+
+.wrapper{
+    height: 60vh;
+    width: 45vw;
+    margin:5rem 0rem -5rem 17rem;
+    padding-top: 3rem;
+
+}
+
+
+.upper{
+    width: 45vw;
+    height: 30vh;
+    background-color:white;
+
+}
+#heading{
+    color: #65B5AB;
+    margin-left: 3rem;
+  padding-top: 2rem;
+  font-size: xx-large;
+   
+}
+#day{
+    color: #CAD48B;
+    font-weight: bold;
+    font-style: normal;
+    font-size: x-large;
+    margin-left: 3rem;
+}
+#gain{
+    color: #CCD0D4;
+    margin-left: 3rem;
+    font-size: large;
+    
+}
+
+
+.lowLeft{
+    width: 22.5vw;
+    height: 30vh;
+    background-color: #2BB3B1;
+    float: left;
+}
+
+#montly{
+    color: #fff;
+    margin-left: 3rem;
+    padding-top: 1.3rem;
+    font-size: x-large;
+}
+#per{
+    color: #fff;
+    margin-left: 3rem;
+    font-size: x-large;
+}
+#full{
+    color: #fff;
+    margin-left: 3rem;
+    padding-bottom: 1rems;
+}
+#signup{
+    background-color: #BFDF32;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 3rem;
+    padding: 15px 82px;
+   
+}
+
+
+.lowRight{
+    width: 22.5vw;
+    height: 30vh;
+    background-color: #4ABEBD;
+    float: right;
+    color: #fff;
+    
+   
+}
+
+.why{
+    margin-left: 2.5rem;
+    padding-top: 1.4rem;
+    font-size: x-large;
+    padding-bottom: 0.3rem;
+}
+
+ol{
+    list-style: none;
+    font-size: medium;
+    padding-top: 0.1rem;
+}
+
